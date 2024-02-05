@@ -1,4 +1,4 @@
-### Hi there 👋
+  ### Hi there 👋
 
 <!--
 **zishpanchal/zishpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌐 About Me
+
+🎓 Currently exploring the vast world of web development.
+💻 Enthusiastically building projects using the MERN (MongoDB, Express.js, React, Node.js) stack.
+📚 Committed to continuous learning and staying updated with the latest technologies.
+🤝 Collaboration
+
+🌐 Open to collaborations and learning from experienced developers.
+💬 Keen on joining a supportive community to enhance my skills and contribute.
+🔗 Connect with Me
+
+LinkedIn: https://www.linkedin.com/in/zishpanchal/
+Portfolio Website: https://portfolio-zishpanchals-projects.vercel.app/
