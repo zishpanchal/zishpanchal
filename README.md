@@ -25,4 +25,5 @@ Here are some ideas to get you started:
 🔗 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/zishpanchal/
+
 Portfolio Website: https://portfolio-zishpanchals-projects.vercel.app/
