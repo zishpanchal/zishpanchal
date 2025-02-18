@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🌐 About Me
 
 🎓 Currently exploring the vast world of Software development.
-💻 Enthusiastically building projects using the MERN (MongoDB, Express.js, React, Node.js) stack.
+💻 Enthusiastically building projects using python
 📚 Committed to continuous learning and staying updated with the latest technologies.
 🤝 Collaboration
 
