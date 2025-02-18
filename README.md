@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌐 About Me
-
 🎓 Currently exploring the vast world of Software development.
 
 🐍 Enthusiastically building projects using python
