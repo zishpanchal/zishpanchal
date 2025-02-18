@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 🌐 About Me
 
 🎓 Currently exploring the vast world of Software development.
-💻 Enthusiastically building projects using 🐍python
+
+🐍 Enthusiastically building projects using python
 
 🌐 Open to collaborations and learning from experienced developers.
+
 💬 Keen on joining a supportive community to enhance my skills and contribute.
+
 🔗 Connect with Me
 
 LinkedIn: https://www.linkedin.com/in/zishpanchal/
